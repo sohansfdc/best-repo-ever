@@ -1,5 +1,6 @@
 # best-repo-ever
 
+<<<<<<< HEAD
 Updated from git new branch.
 
-Thanks
+>>>>>>> origin/master
