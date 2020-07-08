@@ -1,3 +1,6 @@
 # best-repo-ever
 
-updating the readme notes from myfeaturebranch.
+<<<<<<< HEAD
+Updated from git new branch.
+
+>>>>>>> origin/master
